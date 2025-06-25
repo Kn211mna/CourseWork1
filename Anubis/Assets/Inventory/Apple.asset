@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa6d53198585f5b42a663c7f2b703195, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  itemName: Apple
+  maximumAmount: 1
+  itemPrefab: {fileID: 7160953790833447709, guid: 82c66ae5f63e27c4bb0d49a2c8bac704, type: 3}
+  icon: {fileID: 21300000, guid: b0c3395e2e305ec4e9af2db6a60649b8, type: 3}
+  itemType: 1
+  itemDescription: 
+  isConsumeable: 1
+  changeHealth: 10
+  changeHunger: 0
+  changeThirst: 0
+  healAmount: 10
